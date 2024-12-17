@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{918497BA-F0BE-477F-B573-DBB544B2D58E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GMailLeer/Program.cs">
+    <Files>
+      <File FileName="GMailLeer/Program.cs" Line="23" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GMailLeer" expanded="True">
+            <Node name="GMailLeer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GMailLeer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rubenmarinez/Me/Work/MT Technologies/MT/proyectos/Funciones Globales/GMailLeer/GMailLeer/MailRepository.cs" relfile="GMailLeer/MailRepository.cs" line="69" column="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

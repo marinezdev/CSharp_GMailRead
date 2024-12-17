@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMailLeer", "GMailLeer\GMailLeer.csproj", "{918497BA-F0BE-477F-B573-DBB544B2D58E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918497BA-F0BE-477F-B573-DBB544B2D58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918497BA-F0BE-477F-B573-DBB544B2D58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918497BA-F0BE-477F-B573-DBB544B2D58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918497BA-F0BE-477F-B573-DBB544B2D58E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9584839E-394A-4A1D-9C77-0399DF18ACD6}
+	EndGlobalSection
+EndGlobal
